@@ -1,0 +1,2 @@
+link de download do git: https://git-scm.com/downloads
+Documentação do GitHub: https://docs.github.com/pt/get-started
